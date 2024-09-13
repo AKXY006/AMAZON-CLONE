@@ -1,1 +1,3 @@
 # AMAZON-CLONE
+
+To create an Amazon clone webpage using HTML and CSS, the goal is to replicate the layout of Amazon's homepage with a focus on structure and design. Begin by building the header, which includes the Amazon logo, a search bar, and icons like the shopping cart and user profile. Next, design the main content section to display product categories, banners, and featured items. At the bottom, create a footer with links to important sections such as customer service and policies. Use CSS for styling the page, ensuring a responsive design with proper alignment and spacing using Flexbox or Grid
